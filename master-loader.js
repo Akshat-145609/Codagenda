@@ -3,7 +3,6 @@
         'brand_initializer.js',
         'outer_network_detector.js',
         'redirect.js',
-        'console_hijacker.js',
         'asset_preloader.js',
         'env_sanitizer.js'
     ];
