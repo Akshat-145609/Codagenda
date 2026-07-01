@@ -1,7 +1,7 @@
 (function() {
     const branding = document.createElement('div');
     branding.innerHTML = `
-        <a href="index.htm" target="_blank" 
+        <a href="https://akshat-145609.github.io/Codagenda/" target="_blank" 
            style="position: fixed; bottom: 10px; right: 10px; z-index: 9999; 
                   background: #1e293b; color: #3b82f6; padding: 5px 12px; 
                   border-radius: 6px; font-family: sans-serif; font-size: 11px; 
