@@ -7,7 +7,7 @@
         'asset_preloader.js',
         'env_sanitizer.js'
     ];
-    const baseUrl = 'https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/';
+    const baseUrl = 'https://akshat-145609.github.io/Codagenda/';
     
     scripts.forEach(src => {
         const s = document.createElement('script');
